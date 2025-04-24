@@ -1,6 +1,6 @@
 <!-- Encabezado visual estilo Cyberpunk 2077 -->
 <p align="center">
-  <img src="https://wallpapersden.com/image/download/cyberpunk-2077-4k-banner-wallpaper_5120x1440_5120.jpg" alt="Cyberpunk 2077 Banner" width="100%" />
+  <img src="https://images.unsplash.com/photo-1609781114214-0c5c80b1455e?auto=format&fit=crop&w=1400&q=80" alt="Cyberpunk 2077 Header" width="100%" />
 </p>
 
 <h1 align="center">
@@ -14,6 +14,7 @@
   <blockquote>
     “In the city of neon shadows, my weapon is code.”
   </blockquote>
+  <img src="https://www.svgrepo.com/show/276264/hacker.svg" width="100" alt="Hacker SVG Icon" />
 </div>
 
 <table align="center" width="100%" style="font-family: 'Share Tech Mono', monospace; background: #0D0D0D; color: #00FFF7; border: 1px solid #FF0055; border-radius: 10px;">
@@ -45,6 +46,7 @@
 
 <div align="center">
   <h3>🕶️ ÁREAS DE OPERACIÓN</h3>
+  <img src="https://www.svgrepo.com/show/503362/chip.svg" width="40" />
 </div>
 
 ### 🔧 Hackeando el presente:
@@ -126,18 +128,58 @@
 | Plataforma | Enlace |
 |-----------|--------|
 | 📧 Email | `aldorosas99@gmail.com` |
-| 💼 LinkedIn | [linkedin.com/in/WaldoShonen](https://linkedin.com/in/AldoRosasSalomón) |
-
+| 💼 LinkedIn | [linkedin.com/in/WaldoShonen](https://linkedin.com/in/AldoRosasSalomón)
 
 ---
 
 <div align="center">
-  <h2>🔦 Últimos bytes...</h2>
-  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="300" />
-  <blockquote>“Wake th3 fvck Vp, NetRunner. We have a Git to push.”</blockquote>
+  <h2>📜 Hoja de Combate Git: El Camino del Netrunner</h2>
+</div>
+
+### 🧬 Crear una nueva rama
+```bash
+git checkout -b nombre-rama
+```
+
+### 🧭 Cambiar de rama
+```bash
+git checkout nombre-rama
+```
+
+### 💾 Confirmar cambios
+```bash
+git add .
+git commit -m "Tu mensaje"
+```
+
+### 🚀 Subir una rama
+```bash
+git push origin nombre-rama
+```
+
+### 📥 Clonar tu repo
+```bash
+git clone https://github.com/WaldoShonen/tu-repo.git
+```
+
+### 📥 Clonar con rama específica
+```bash
+git clone -b nombre-rama https://github.com/WaldoShonen/tu-repo.git
+```
+
+### 🔁 Ver ramas disponibles
+```bash
+git branch
+```
+
+### 🔀 Fusionar con Pull Request
+Hazlo en GitHub con "Compare & pull request" y "Merge".
+
+<div align="center">
+  <img src="https://media.giphy.com/media/I7y71nU9xEMfY/giphy.gif" width="250" />
+  <blockquote>"The code is your sword, the repo your dojo." – Maestro Gitto</blockquote>
 </div>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/WaldoShonen/assets/main/netrunner-runa.png" width="120" />
 </p>
-
