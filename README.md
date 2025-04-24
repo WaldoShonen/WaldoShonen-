@@ -126,9 +126,8 @@
 | Plataforma | Enlace |
 |-----------|--------|
 | 📧 Email | `aldorosas99@gmail.com` |
-| 💼 LinkedIn | [linkedin.com/in/WaldoShonen](https://linkedin.com/in/WaldoShonen) |
-| 🕹️ Twitter | [@WaldoShonen](https://twitter.com/WaldoShonen) |
-| 🌐 Sitio Web | [waldoshonen.dev](https://waldoshonen.dev) _(si aplica)_ |
+| 💼 LinkedIn | [linkedin.com/in/WaldoShonen](https://linkedin.com/in/AldoRosasSalomón) |
+
 
 ---
 
