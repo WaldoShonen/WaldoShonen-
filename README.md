@@ -7,6 +7,19 @@
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=35&color=00FFF7&center=true&vCenter=true&lines=The+NetRunner;Hacking+Through+Night+City;Welcome+to+the+Grid" />
 </h1>
 
+<div align="center">
+  <h2>📊 Stats del NetRunner</h2>
+</div>
+---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=WaldoShonen&show_icons=true&theme=radical&border_radius=15&bg_color=0D0D0D&title_color=FF0055&icon_color=00FFF7" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WaldoShonen&theme=radical&stroke=00FFF7&ring=FF0055" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaldoShonen&layout=compact&theme=radical&bg_color=0D0D0D&title_color=FF0055" width="45%" />
+</p>
+
 ---
 
 <div align="center">
@@ -84,21 +97,6 @@
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26" />
   <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6" />
   <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</p>
-
----
-
-<div align="center">
-  <h2>📊 Stats del NetRunner</h2>
-</div>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WaldoShonen&show_icons=true&theme=radical&border_radius=15&bg_color=0D0D0D&title_color=FF0055&icon_color=00FFF7" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WaldoShonen&theme=radical&stroke=00FFF7&ring=FF0055" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaldoShonen&layout=compact&theme=radical&bg_color=0D0D0D&title_color=FF0055" width="45%" />
 </p>
 
 ---
